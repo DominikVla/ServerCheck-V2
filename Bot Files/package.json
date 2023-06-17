@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "16.3.0",
+    "minecraft-server-util": "^5.4.4",
+    "node": "^20.2.0",
+    "node-mcstatus": "^1.1.0"
+  },
+  "name": "servcheck2",
+  "version": "1.0.0",
+  "description": "A bot to check server status",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kyoko",
+  "license": "ISC"
+}
