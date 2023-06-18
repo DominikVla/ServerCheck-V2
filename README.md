@@ -34,7 +34,7 @@ For the bot to function you need to be able to obtain your application Token, Cl
 2. Go onto a server with the Bot, right click the bot and press copy ID. This gives the Client ID.
 3. Right click the server you're currently in and press copy ID. This is the Guild ID.
 ####
-Reggarding hosting please keep in mind that the BOT need at a minimum 100MB of RAM. Passively the bot should only be using ~25% but  usage goes to 70%-95% when using the music command. Also note that the play command is still under development and may not function correctly.
+Reggarding hosting please keep in mind that the BOT need at a minimum 75MB of RAM.
 
 ## Useful links
 - [Discord's documentation](https://discord.com/developers/docs/intro)
