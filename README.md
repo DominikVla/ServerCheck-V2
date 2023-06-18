@@ -4,6 +4,7 @@ Checks the status of a Minecraft (Java) server. This Bot is still being develope
 ### What's the difference between ServerCheckV1 and V2?
 
 Well the difference is that this version is able to use it's status as it uses [mcstatus.io's](https://mcstatus.io/) API to get it's data. The command available is a fallback incase their API goes down. View image below:
+####
 ![Image of Bot activity](https://cdn.discordapp.com/attachments/911943403028234270/1119877280131448852/image.png)
 
 # Required Install Commands
