@@ -1,5 +1,5 @@
 # ServerCheck
-Checks the status of a Minecraft (Java) server. This Bot is still being developed, more features to come. This will no longer be updated as I'd want to push toward a new file and code structure.
+Checks the status of a Minecraft (Java) server. This Bot is still being developed, more features to come. **This will no longer be updated as I'd want to push toward a new file and code structure.**
 
 ### What's the difference between ServerCheckV1 and V2?
 
